@@ -1,0 +1,33 @@
+
+
+
+
+
+
+
+body 
+{
+    background-image: url(Title-Image.png);
+}
+#side{
+    display: inline;
+}
+
+#text{
+    height: 200px;
+}
+.sec1{
+    display: inline;
+}
+.sec2{
+    display: inline;
+}
+.sec3{
+    display: inline;
+}
+.sec4{
+    display: inline;
+}
+.social{
+    display: inline;
+}
